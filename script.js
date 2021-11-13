@@ -15,7 +15,7 @@ function like(){
         return
 
     }else{
-        img.src = './img/purpleHeart.png'
+        img.src = 'purpleHeart.png'
         validation = true
     }
 
