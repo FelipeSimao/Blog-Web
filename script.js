@@ -9,7 +9,7 @@ var validation = true
 function like(){
 
     if(validation){
-        img.src = './img/redHeart.png'
+        img.src = 'redHeart.png'
         validation = false
 
         return
